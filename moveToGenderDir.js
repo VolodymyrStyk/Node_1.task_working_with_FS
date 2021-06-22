@@ -1,3 +1,4 @@
+// // 2) Перемістити всіх дівчат в папку girls а хлопців в папаку boys.
 const fs = require('fs');
 const path = require('path');
 const filePath1800 = path.join(__dirname, '1800');

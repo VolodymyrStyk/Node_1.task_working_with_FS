@@ -1,3 +1,4 @@
+// // 1) Студентів з 1800 перевести в групу на 2000. І навпаки
 const fs = require('fs');
 const path = require('path');
 const filePath1800 = path.join(__dirname, '1800');
