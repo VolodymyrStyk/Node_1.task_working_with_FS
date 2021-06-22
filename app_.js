@@ -115,4 +115,3 @@ fs.mkdir(girlsDir, {recursive: true}, (err) => {
 //     })
 // });
 
-
